@@ -1,0 +1,70 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="hero hero-detail-product">
+    <img class="background-img" src="~/images/movie-wall2.jpg" />
+    <div class="movie-detail">
+        <h4 class="release-time">29 tháng 2, 2023</h4>
+        <h1 class="movie-name">Past Lives</h1>
+        <span>Một bộ phim của</span> <b class="director">Celine Song</b>
+        <div class="movie-content-div">
+            <p class="movie-content">Past Lives tập trung vào đời sống bình dị của một bộ phận giới trẻ. Họ có công việc cơ bản, không nhiều mối quan hệ, đồng thời chất chứa nhiều nỗi niềm riêng. Các nhân vật này giúp tiết tấu phim trở nên nhẹ nhàng, chân thực hơn. Nhà làm phim Celine Song khéo léo vận dụng những chi tiết trong tính cách để nổi bật đời sống của Nora, nhằm nói lên thông điệp: Ai cũng có quyền được yêu và được người khác nhớ đến.</p>
+        </div>
+        <h3 class="cast-list">Diễn viên</h3>
+        <div class="swiper movie-cast">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide cast-slide">
+                    <img src="~/images/avt1.jpg" />
+                    <h4 class="cast-name">Harry Potter</h4>
+                </div>
+                <div class="swiper-slide cast-slide">
+                    <img src="~/images/avt2.jpg" />
+                    <h4 class="cast-name">Harry Potter</h4>
+                </div>
+                <div class="swiper-slide cast-slide">
+                    <img src="~/images/avt3.jpg" />
+                    <h4 class="cast-name">Harry Potter</h4>
+                </div>
+                <div class="swiper-slide cast-slide">
+                    <img src="~/images/avt1.jpg" />
+                    <h4 class="cast-name">Harry Potter</h4>
+                </div>
+                <div class="swiper-slide cast-slide">
+                    <img src="~/images/avt2.jpg" />
+                    <h4 class="cast-name">Harry Potter</h4>
+                </div>
+                <div class="swiper-slide cast-slide">
+                    <img src="~/images/avt3.jpg" />
+                    <h4 class="cast-name">Harry Potter</h4>
+                </div>
+            </div>
+
+            <!-- If we need navigation buttons -->
+            <i class="fa-solid fa-circle-left fa-2xl swiper-button-prev"></i>
+            <i class="fa-solid fa-circle-right fa-2xl swiper-button-next"></i>
+        </div>
+        <div class="movie-detail-btn">
+            <button class="button-34 more-inf" role="button">Thêm vào yêu thích</button>
+            <button class="button-34 booking-ticket" role="button">Đặt vé</button>          
+        </div>
+    </div>
+</div>
+
+<section class="movie-section">
+    <div class="container movie-section-container">
+        <div class="section-title">
+            <button class="showing-movie-btn button-34" role="button">Phim đang chiếu</button>
+            <button class="coming-movie-btn button-34" role="button">Phim sắp chiếu</button>
+        </div>
+
+        <partial name="_ShowingMovie"></partial>
+        <partial name="_ComingSoonMovie"></partial>
+    </div>
+</section>
+
+

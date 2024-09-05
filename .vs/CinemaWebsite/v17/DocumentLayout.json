@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\views\\shared\\_showingmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\views\\shared\\_showingmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|c:\\users\\vugia\\desktop\\cinemawebsite\\cinemawebsite\\views\\shared\\_comingsoonmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F6B1B-46A0-491B-8042-AAE1C4F89015}|CinemaWebsite\\CinemaWebsite.csproj|solutionrelative:cinemawebsite\\views\\shared\\_comingsoonmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_Login.cshtml",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Views\\Shared\\_Login.cshtml",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_Login.cshtml",
+              "RelativeToolTip": "CinemaWebsite\\Views\\Shared\\_Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:23:10.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CinemaWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CinemaWebsite\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAI4CAAAAAAAAAAAIwKQCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-05T07:19:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CinemaWebsite\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CinemaWebsite\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAkwPcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-06T18:14:29.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ComingSoonMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_ComingSoonMovie.cshtml",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Views\\Shared\\_ComingSoonMovie.cshtml",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_ComingSoonMovie.cshtml",
+              "RelativeToolTip": "CinemaWebsite\\Views\\Shared\\_ComingSoonMovie.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:38:38.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ShowingMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_ShowingMovie.cshtml",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Views\\Shared\\_ShowingMovie.cshtml",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_ShowingMovie.cshtml",
+              "RelativeToolTip": "CinemaWebsite\\Views\\Shared\\_ShowingMovie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:32:56.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Views\\Product\\Product.cshtml",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Product\\Product.cshtml",
+              "RelativeToolTip": "CinemaWebsite\\Views\\Product\\Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T04:17:33.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CinemaWebsite\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:07:29.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CinemaWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T07:15:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CinemaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T07:09:45.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CinemaWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vugia\\Desktop\\CinemaWebsite\\CinemaWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CinemaWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:08:33.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

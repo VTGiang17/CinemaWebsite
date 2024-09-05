@@ -1,0 +1,116 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="hero">    
+    <div class="hero-wrapper">
+        <div class="hero-item active">
+            <img class="hero-img" src="~/images/wall1.jpg" />
+            <div class="hero-content">
+                <h4 class="release-time">29 tháng 2, 2023</h4>
+                <h1 class="movie-name">House of Dragon</h1>
+                <div class="movie-detail-btn">
+                    <a href="/Product/Product" class="button-34 more-inf" role="button">Xem chi tiết</a>
+                    <a href="/Product/Product" class="button-34 booking-ticket" role="button">Đặt vé</a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-item">
+            <img class="hero-img" src="~/images/wall2.jpg" />
+            <div class="hero-content">
+                <h4 class="release-time">29 tháng 2, 2023</h4>
+                <h1 class="movie-name">House of Dragon</h1>
+                <div class="movie-detail-btn">
+                    <a href="/Product/Product" class="button-34 more-inf" role="button">Xem chi tiết</a>
+                    <a href="/Product/Product" class="button-34 booking-ticket" role="button">Đặt vé</a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-item">
+            <img class="hero-img" src="~/images/movie-wall.jpg" />
+            <div class="hero-content">
+                <h4 class="release-time">29 tháng 2, 2023</h4>
+                <h1 class="movie-name">House of Dragon</h1>
+                <div class="movie-detail-btn">
+                    <a href="/Product/Product" class="button-34 more-inf" role="button">Xem chi tiết</a>
+                    <a href="/Product/Product" class="button-34 booking-ticket" role="button">Đặt vé</a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-item">
+            <img class="hero-img" src="~/images/movie-wall1.jpg" />
+            <div class="hero-content">
+                <h4 class="release-time">29 tháng 2, 2023</h4>
+                <h1 class="movie-name">House of Dragon</h1>
+                <div class="movie-detail-btn">
+                    <a href="/Product/Product" class="button-34 more-inf" role="button">Xem chi tiết</a>
+                    <a href="/Product/Product" class="button-34 booking-ticket" role="button">Đặt vé</a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-item">
+            <img class="hero-img" src="~/images/movie-wall2.jpg" />
+            <div class="hero-content">
+                <h4 class="release-time">29 tháng 2, 2023</h4>
+                <h1 class="movie-name">House of Dragon</h1>
+                <div class="movie-detail-btn">
+                    <a href="/Product/Product" class="button-34 more-inf" role="button">Xem chi tiết</a>
+                    <a href="/Product/Product" class="button-34 booking-ticket" role="button">Đặt vé</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="arrows">
+        <button class="prev"><</button>
+        <button class="next">></button>
+    </div>
+    <div class="thumbnail-hot-movie">
+        <div class="hot-movie-item active">
+            <img src="~/images/phim1.jpg" />
+        </div>
+        <div class="hot-movie-item">
+            <img src="~/images/phim2.jpg" />
+        </div>
+        <div class="hot-movie-item">
+            <img src="~/images/phim3.jpg" />
+        </div>
+        <div class="hot-movie-item">
+            <img src="~/images/phim1.jpg" />
+        </div>
+        <div class="hot-movie-item">
+            <img src="~/images/phim2.jpg" />
+        </div>
+    </div>
+    
+</div>
+
+<section class="movie-section" id="movie-section">
+    <div class="container movie-section-container">
+        <div class="section-title">
+            <button class="showing-movie-btn button-34" role="button">Phim đang chiếu</button>
+            <button class="coming-movie-btn button-34" role="button">Phim sắp chiếu</button>
+        </div>
+        
+        <partial name="_ShowingMovie"></partial>
+        <partial name="_ComingSoonMovie"></partial>
+    </div>
+</section>
+
+<section class="login" id="login">
+    <partial name="_Login"></partial>
+</section>
+
+<section id="upcoming-movie">
+
+</section>
+
+<section id="news">
+
+</section>
+
+<section id="cinema-list">
+
+</section>

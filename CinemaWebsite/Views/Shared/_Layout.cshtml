@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CinemaWebsite</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CinemaWebsite.styles.css" asp-append-version="true" />
+    <link href="~/lib/fontawesome-free-6.6.0-web/css/all.min.css" rel="stylesheet" />
+    <link href="~/lib/swiper/swiper-bundle.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header>    
+        <div class="logo">
+            <a href="/Home/Index">
+                <img src="~/images/logo.jpg" />
+            </a>
+        </div>
+        <ul class="navbar">
+            <li> <a class="nav-link" href="/Home/Index">Trang chủ</a> </li>
+            <li> <a class="nav-link" href="#">Lịch chiếu</a> </li>
+            <li> <a class="nav-link" href="#">Phim</a> </li>
+            <li> <a class="nav-link" href="#">Tin tức</a> </li>
+  
+        </ul>
+        <div class="login">
+            <div class="search-box">
+                <button class="btn-search"><i class="fas fa-search"></i></button>
+                <input type="text" class="input-search" placeholder="Nhập phim...">
+            </div>
+            <i class="fa-solid fa-circle-user fa-2xl user-login"></i>
+            <i class="fa-solid fa-ticket fa-2xl"></i>
+            <i class="fa-sharp fa-solid fa-heart fa-2xl"></i>
+        </div>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-3 footer-col">
+                    <p>Chăm sóc khách hàng</p>
+                    <ul>
+                        <li><a href="">Trung Tâm Trợ Giúp</a></li>
+                        <li><a href="">Hướng Dẫn Mua Hàng</a></li>
+                        <li><a href="">Thanh Toán</a></li>
+                        <li><a href="">Chăm Sóc Khách Hàng</a></li>
+                        <li><a href="">Chính Sách Bảo Hành</a></li>
+                    </ul>
+                </div>
+                <div class="col-3 footer-col">
+                    <p>Về DongHo</p>
+                    <ul>
+                        <li><a href="">Kênh Người Bán</a></li>
+                        <li><a href="">Chính Sách Bảo Mật</a></li>
+                        <li><a href="">Chính Hãng</a></li>
+                        <li><a href="">Điều Khoản DongHo</a></li>
+                    </ul>
+                </div>
+                <div class="col-3 footer-col">
+                    <p>Theo dõi chúng tôi trên</p>
+                    <div class="row">
+                        <div class="col-2">
+                            <a href="">
+                                <i class="fa-brands fa-instagram fa-2xl"></i>
+                            </a>
+                        </div>
+                        <div class="col-2">
+                            <a href="">
+                                <i class="fa-brands fa-facebook fa-2xl"></i>
+                            </a>
+                        </div>
+                        <div class="col-2">
+                            <a href="">
+                                <i class="fa-brands fa-youtube fa-2xl"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/swiper/swiper-bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
